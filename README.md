@@ -35,15 +35,14 @@ FlightBookingSystem/
 
 ⚡ How to Run
 
-1. Clone the repository
-git clone https://github.com/Balaram721/FlightBookingSystem.git
-cd FlightBookingSystem
+1. Clone the repository 
+ cd FlightBookingSystem
 
 2. Compile the program
-g++ main.cpp -o flight_booking
+ g++ main.cpp -o flight_booking
 
 3. Run the executable
-./flight_booking
+  ./flight_booking
 
 📸 Example Output
 
