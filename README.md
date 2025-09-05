@@ -36,7 +36,7 @@ FlightBookingSystem/
 ⚡ How to Run
 
 1. Clone the repository
-git clone https://github.com/your-username/FlightBookingSystem.git
+git clone https://github.com/Balaram721/FlightBookingSystem.git
 cd FlightBookingSystem
 
 2. Compile the program
